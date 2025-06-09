@@ -174,3 +174,9 @@ Los demas datos estan en Frontend/sign_language_translator/android/app/build.gra
 keytool -genkey -v -keystore release-key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias keyAlias
 ```
 
+### 6. Crear apk 
+```bash
+flutter build apk --release
+```
+
+

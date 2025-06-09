@@ -16,5 +16,3 @@ def init_db(app: Flask):
         use_pure=True  # Desactiva el uso de SSL
     )
     return db_connection
-
-

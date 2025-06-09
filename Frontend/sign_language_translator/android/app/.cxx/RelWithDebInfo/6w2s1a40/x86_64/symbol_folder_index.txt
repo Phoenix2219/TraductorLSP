@@ -1,0 +1,1 @@
+D:\Proyecto_Tesis\TraductorLSP\Frontend\sign_language_translator\build\app\intermediates\cxx\RelWithDebInfo\6w2s1a40\obj\x86_64
