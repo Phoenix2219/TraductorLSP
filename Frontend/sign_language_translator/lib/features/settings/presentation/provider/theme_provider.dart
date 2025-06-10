@@ -40,7 +40,8 @@ extension ColorOptionExtension on ColorOption {
       case ColorOption.cyan:
         return 'Cian';
       case ColorOption.pink:
-        return 'Rosa';
+        return 'Rosa';      
+      // ignore: unreachable_switch_default
       default:
         return 'Morado'; // Color por defecto
     }
